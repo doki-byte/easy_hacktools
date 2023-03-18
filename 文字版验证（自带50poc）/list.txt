@@ -1,0 +1,51 @@
+                          ****漏洞列表****                                       
+1、x-ui面板爬虫爬取及登陆分享
+2、金蝶OA Apusic应用服务器(中间件) server_file 目录遍历漏洞
+3、网康下一代防火墙 getshell
+4、Apache Hadoop Yarn RPC 远程命令执行漏洞
+5、Apache Spark 远程命令执行漏洞(CVE-2022-33891)一把梭
+6、ClickHouse API 数据库接口未授权访问漏洞
+7、D-Link DCS系列监控 账号密码信息泄露漏洞(CVE_2020_25078)
+8、DrayTek企业网络设备远程命令执行漏洞(CVE_2022_8515)
+9、VMware服务端模板注入漏洞(CVE-2022-22954)一把梭
+10、DedeCMS v5.7.87 SQL注入漏洞(CVE-2022-23337)一把梭
+11、WSO2远程命令执行漏洞(CVE-2022-29464)一把梭
+12、D-LINK DAP-2020 webproc 任意文件读取漏洞(CVE-2021-27250)一把梭
+13、DocCMS keyword SQL注入漏洞一把梭
+14、DVR 登录绕过漏洞(CVE-2018-9995)一把梭
+15、泛微OA E-Weaver SignatureDownLoad 任意文件读取漏洞一把梭
+16、F5 BIG-IP 远程代码执行漏洞一把梭
+17、Fikker 管理平台弱口令漏洞一把梭
+18、Fortinet任意文件读取漏洞(CVE-2018-13379)一把梭
+19、Franklin Fueling Systems任意文件读取漏洞(CVE-2021-46417)一把梭
+20、孚盟云 AjaxMethod.ashx SQL注入漏洞一把梭
+21、泛微OA E-Office UserSelect 未授权访问漏洞
+22、Harbor 未授权创建管理员漏洞一把梭
+23、海康威视RCE一把梭
+24、IceWarp WebClient远程命令执行漏洞一把梭
+25、kkFileView getCorsFile 任意文件读取漏洞一把梭
+26、蓝凌OA treexml.tmpl 远程命令执行漏洞一把梭
+27、MagicFlow 防火墙网关 main.xp 任意文件读取漏洞一把梭
+28、MetaBase任意文件读取漏洞(CVE-2021-41277)一把梭
+29、Microsoft Exchange RCE(cve-2021-34473)一把梭
+30、Node-RED ui_base 任意文件读取漏洞一把梭
+31、Rails Accept 任意文件读取漏洞(CVE-2019-5418)一把梭
+32、锐捷 EG易网关 login.php 管理员账号密码泄露漏洞一把梭
+33、锐捷EG易网关 phpinfo.view.php 信息泄露漏洞一把梭
+34、Sapido 多款路由器 远程命令执行漏洞一把梭
+35、SolarView远程命令执行漏洞(CVE-2022-29303)一把梭
+36、SonicWall SSL-VPN 远程命令执行漏洞一把梭
+37、用友 U8 OA test.jsp SQL注入漏洞一把梭
+38、Tenda W15E企业级路由器配置文件泄漏漏洞一把梭
+39、Thinkphp 5.0.x通杀gethell一把梭
+40、VoIPmonitor 远程命令执行漏洞(CVE-2021-30461)一把梭
+41、昆石网络 虚拟运营支撑系统任意文件读取漏洞一把梭
+42、泛微OA E-Cology HrmCareerApplyPerView.jsp SQL注入漏洞一把梭
+43、WordPress任意文件读取漏洞(CVE-2022-1119)一把梭 
+44、小米 路由器 extdisks 任意文件读取漏洞(CVE-2019-18371)一把梭
+45、向日葵RCE一把梭
+46、用友 NC bsh.servlet.BshServlet 远程命令执行漏洞一把梭
+47、用友 U8 OA test.jsp SQL注入漏洞一把梭
+48、zabbix 身份认证错误
+49、Zabbix—SQL注入 漏洞一把梭
+50、Zyxel USG FLEX handler 远程命令执行漏洞(CVE-2022-30525)一把梭
